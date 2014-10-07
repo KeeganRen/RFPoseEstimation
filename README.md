@@ -1,6 +1,11 @@
 RFPoseEstimation
 ================
 
+This is a Matlab/Mex implementation of a 2D human pose estimator that was used
+in the paper "Multi-view Body Part Recognition with Random Forests".
+
+For more information please refer to my homepage: http://www.csc.kth.se/~vahidk/
+
 If you plan to use this source code please cite:
 
 ```
@@ -34,3 +39,4 @@ You can change the code to read your own dataset. Look at how it's done in
 football_train.m and football_test.m
 
 Vahid Kazemi
+
