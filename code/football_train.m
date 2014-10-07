@@ -1,6 +1,6 @@
 function football_train(dbname)
 
-if nargin<1, dbname = 'football'; end
+if nargin<1, dbname = 'football5907'; end
 
 % dataset information
 if strcmp(dbname, 'football')
